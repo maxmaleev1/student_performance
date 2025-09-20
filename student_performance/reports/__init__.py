@@ -1,1 +1,1 @@
-from . import student_performance
+from . import student_performance  # noqa: F401
